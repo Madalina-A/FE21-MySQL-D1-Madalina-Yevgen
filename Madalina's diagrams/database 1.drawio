@@ -17,16 +17,16 @@
                     <mxGeometry x="425" y="340" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="Description" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="460" y="180" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="450" y="250" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="Autor" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="150" y="160" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="150" y="200" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="NrPages" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="590" y="280" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="CoverColor" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="305" y="120" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="270" y="110" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="PublishYear" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="290" y="340" width="120" height="80" as="geometry"/>
@@ -35,10 +35,10 @@
                     <mxGeometry x="210" y="430" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="PaperType" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="530" y="410" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="425" y="440" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="BuyDate" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="80" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="460" y="140" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
